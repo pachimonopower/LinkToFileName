@@ -1,0 +1,22 @@
+# LinkToFileName
+リンク先の名前で保存されたファイルを一括で連番で名前にするやつ<br>
+<br>
+link.txt<br>
+ファイル名:hoge1.txt<br>
+http://aaa.com/akleh984skjh.txt<br>
+ファイル名:hoge2.txt<br>
+http://aaa.com/9287skdjh345.txt<br>
+ファイル名:hoge3.txt<br>
+http://aaa.com/938475ksrhj3.txt<br>
+ファイル名:hoge4.txt<br>
+http://aaa.com/92875kjhgfkj.txt<br>
+<br>
+files/<br>
+akleh984skjh.txt<br>
+9287skdjh345.txt<br>
+938475ksrhj3.txt<br>
+92875kjhgfkj.txt<br>
+<br>
+・連番で名前をつけれる<br>
+・番号は0埋めできる<br>
+・GUIですぐ実行できる<br>
